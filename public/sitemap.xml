@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ldsx.de5.net/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ldsx.de5.net/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ldsx.de5.net/services</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://ldsx.de5.net/services/management</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/services/finance</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/services/tax</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/services/valuation</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/services/ai</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/services/data</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ldsx.de5.net/insights</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ldsx.de5.net/insights/management-five-steps</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ldsx.de5.net/insights/finance-checklist</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ldsx.de5.net/insights/ai-first-step</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ldsx.de5.net/insights/data-driven</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ldsx.de5.net/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
