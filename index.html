@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <script type="text/javascript">
+      (function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function (s) {
+            return s.replace(/~and~/g, '&')
+          }).join('?')
+          window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash)
+        }
+      })(window.location)
+    </script>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b2545" />
+    <meta name="description" content="励德树信（昆明）企业管理咨询有限公司，提供企业管理咨询、财务咨询、税务咨询、资产评估咨询、人工智能与大数据应用等专业服务。" />
+    <meta name="keywords" content="励德树信,昆明企业管理咨询,财务咨询,税务咨询,资产评估咨询,人工智能,大数据" />
+    <title>励德树信 | 企业管理咨询</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
