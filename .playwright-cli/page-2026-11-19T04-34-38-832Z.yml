@@ -1,0 +1,301 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "励德树信 LIDE SHUXIN" [ref=e5] [cursor=pointer]:
+        - /url: /lidexinxin/
+        - generic [ref=e10]:
+          - generic [ref=e11]: 励德树信
+          - generic [ref=e12]: LIDE SHUXIN
+      - navigation [ref=e13]:
+        - link "首页" [ref=e14] [cursor=pointer]:
+          - /url: /lidexinxin/
+        - link "关于我们" [ref=e15] [cursor=pointer]:
+          - /url: /lidexinxin/about
+        - link "服务领域" [ref=e17] [cursor=pointer]:
+          - /url: /lidexinxin/services
+        - link "行业洞察" [ref=e20] [cursor=pointer]:
+          - /url: /lidexinxin/insights
+        - link "联系我们" [ref=e21] [cursor=pointer]:
+          - /url: /lidexinxin/contact
+      - link "预约咨询" [ref=e22] [cursor=pointer]:
+        - /url: /lidexinxin/contact
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - paragraph [ref=e28]: 管理咨询 · 财税咨询 · 数字化服务
+          - heading "以德立身 以信立业" [level=1] [ref=e29]: 以德立身以信立业
+          - paragraph [ref=e30]: 励德树信专注为企业提供管理规范、财税梳理与 AI、大数据应用方面的专业咨询服务， 以务实的方案与可信赖的陪伴，助力企业稳健成长。
+          - generic [ref=e31]:
+            - link "预约咨询" [ref=e32] [cursor=pointer]:
+              - /url: /lidexinxin/contact
+            - link "了解服务" [ref=e35] [cursor=pointer]:
+              - /url: /lidexinxin/services
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e38]: 核心服务矩阵
+            - emphasis [ref=e39]: CORE SERVICES
+          - generic [ref=e40]:
+            - link "企业管理咨询" [ref=e41] [cursor=pointer]:
+              - /url: /lidexinxin/services/management
+            - link "财务咨询" [ref=e46] [cursor=pointer]:
+              - /url: /lidexinxin/services/finance
+            - link "税务咨询服务" [ref=e50] [cursor=pointer]:
+              - /url: /lidexinxin/services/tax
+            - link "资产评估咨询" [ref=e55] [cursor=pointer]:
+              - /url: /lidexinxin/services/valuation
+            - link "人工智能应用咨询" [ref=e61] [cursor=pointer]:
+              - /url: /lidexinxin/services/ai
+            - link "大数据与互联网数据服务" [ref=e67] [cursor=pointer]:
+              - /url: /lidexinxin/services/data
+          - generic [ref=e73]: 立足昆明 · 服务企业
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e81]: "2026"
+          - text: 立足昆明 · 新锐成立
+        - generic [ref=e82]:
+          - generic [ref=e83]: 6 大
+          - text: 专业服务方向
+        - generic [ref=e84]:
+          - generic [ref=e85]: 5 步
+          - text: 标准化服务流程
+        - generic [ref=e86]:
+          - generic [ref=e87]: 1 对 1
+          - text: 专属顾问对接
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]: 励德
+              - generic [ref=e94]: 树信
+            - paragraph [ref=e95]: LIDE SHUXIN CONSULTING
+          - generic [ref=e96]:
+            - generic [ref=e97]: "2026"
+            - text: 成立于昆明
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: 关于我们
+          - heading "以德立身，以信立业" [level=2] [ref=e100]
+          - paragraph [ref=e101]: “励德”取勉力进取、树立德业之意；“树信”取树立诚信、积累信誉之意。 两者合在一起，是我们对自身的要求，也是对客户的承诺。
+          - paragraph [ref=e102]: 励德树信（昆明）企业管理咨询有限公司立足昆明，业务涵盖企业管理咨询、财务咨询、税务咨询、资产评估咨询， 并积极融合人工智能与大数据技术，为企业提供更高效、更透明的咨询服务。
+          - list [ref=e103]:
+            - listitem [ref=e104]: 以客户需求为出发点，方案务实可落地
+            - listitem [ref=e107]: 咨询边界清晰，不夸大、不越界
+            - listitem [ref=e110]: 保密优先，尊重并保护客户信息
+          - link "了解更多" [ref=e113] [cursor=pointer]:
+            - /url: /lidexinxin/about
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - paragraph [ref=e119]: Our Services
+          - heading "专业服务，覆盖企业经营关键环节" [level=2] [ref=e120]
+          - paragraph [ref=e121]: 从管理到财税，从资产到数据与 AI，为企业提供系统化的咨询支持。
+        - generic [ref=e122]:
+          - link [ref=e124] [cursor=pointer]:
+            - /url: /lidexinxin/services/management
+            - heading "企业管理咨询" [level=3] [ref=e129]
+            - paragraph [ref=e130]: 梳理组织架构、制度流程与绩效机制，帮助企业把管理做实、把效率做高。
+            - list [ref=e131]:
+              - listitem [ref=e132]: 组织架构与岗位职责梳理
+              - listitem [ref=e135]: 制度流程建设与优化
+              - listitem [ref=e138]: 绩效考核与激励机制设计
+            - generic [ref=e141]: 了解详情
+          - link [ref=e145] [cursor=pointer]:
+            - /url: /lidexinxin/services/finance
+            - heading "财务咨询" [level=3] [ref=e149]
+            - paragraph [ref=e150]: 提供财务管理体系、预算管理、成本分析与现金流管理方面的专业建议。
+            - list [ref=e151]:
+              - listitem [ref=e152]: 财务管理体系搭建
+              - listitem [ref=e155]: 预算编制与执行跟踪
+              - listitem [ref=e158]: 成本分析与利润改善
+            - generic [ref=e161]: 了解详情
+          - link [ref=e165] [cursor=pointer]:
+            - /url: /lidexinxin/services/tax
+            - heading "税务咨询服务" [level=3] [ref=e170]
+            - paragraph [ref=e171]: 协助企业了解税收政策、规范日常税务管理，提示业务模式中的涉税关注点。
+            - list [ref=e172]:
+              - listitem [ref=e173]: 税收政策解读与适用梳理
+              - listitem [ref=e176]: 日常税务管理流程规范
+              - listitem [ref=e179]: 业务模式涉税关注点提示
+            - generic [ref=e182]: 了解详情
+          - link [ref=e186] [cursor=pointer]:
+            - /url: /lidexinxin/services/valuation
+            - heading "资产评估咨询" [level=3] [ref=e192]
+            - paragraph [ref=e193]: 协助企业盘点资产、建立资产管理机制，并提供价值分析思路与方法方面的咨询。
+            - list [ref=e194]:
+              - listitem [ref=e195]: 资产清查与台账梳理
+              - listitem [ref=e198]: 资产价值分析思路咨询
+              - listitem [ref=e201]: 资产管理制度建设
+            - generic [ref=e204]: 了解详情
+          - link [ref=e208] [cursor=pointer]:
+            - /url: /lidexinxin/services/ai
+            - heading "人工智能应用咨询" [level=3] [ref=e214]
+            - paragraph [ref=e215]: 识别适合企业的 AI 应用场景，设计试点方案，辅导工具选型与团队应用能力提升。
+            - list [ref=e216]:
+              - listitem [ref=e217]: AI 应用场景识别与优先级评估
+              - listitem [ref=e220]: 办公与业务流程智能化方案
+              - listitem [ref=e223]: 智能工具选型与落地辅导
+            - generic [ref=e226]: 了解详情
+          - link [ref=e230] [cursor=pointer]:
+            - /url: /lidexinxin/services/data
+            - heading "大数据与互联网数据服务" [level=3] [ref=e236]
+            - paragraph [ref=e237]: 协助企业盘点数据资产、设计指标体系、搭建经营看板，让数据服务决策。
+            - list [ref=e238]:
+              - listitem [ref=e239]: 数据资产盘点与指标体系设计
+              - listitem [ref=e242]: 数据整理、清洗与分析
+              - listitem [ref=e245]: 经营看板与报表搭建
+            - generic [ref=e248]: 了解详情
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - paragraph [ref=e254]: Why Choose Us
+          - heading "为什么选择励德树信" [level=2] [ref=e255]
+          - paragraph [ref=e256]: 我们希望成为您身边可靠、专业、值得长期信赖的咨询伙伴。
+        - generic [ref=e257]:
+          - generic [ref=e259]:
+            - heading "一站式综合视角" [level=3] [ref=e265]
+            - paragraph [ref=e266]: 管理、财务、税务、数据与 AI 协同考虑，避免“头痛医头、脚痛医脚”。
+          - generic [ref=e268]:
+            - heading "务实可落地" [level=3] [ref=e274]
+            - paragraph [ref=e275]: 方案贴合企业阶段与资源，注重可执行、可衡量，而不是停留在报告上。
+          - generic [ref=e277]:
+            - heading "数字化新视角" [level=3] [ref=e283]
+            - paragraph [ref=e284]: 把人工智能与数据能力融入咨询，帮助企业更高效地做决策。
+          - generic [ref=e286]:
+            - heading "保密与合规" [level=3] [ref=e291]
+            - paragraph [ref=e292]: 服务前签署保密协议，清晰界定服务边界，严守职业操守。
+      - generic [ref=e294]:
+        - generic [ref=e295]:
+          - paragraph [ref=e296]: Our Process
+          - heading "清晰透明的服务流程" [level=2] [ref=e297]
+          - paragraph [ref=e298]: 五个步骤，让每一次合作都有章可循、有据可查。
+        - generic [ref=e299]:
+          - generic [ref=e300]:
+            - emphasis [ref=e307]: "01"
+            - heading "需求沟通" [level=3] [ref=e308]
+            - paragraph [ref=e309]: 了解企业现状、目标与痛点，明确服务范围与预期。
+          - generic [ref=e310]:
+            - emphasis [ref=e315]: "02"
+            - heading "诊断调研" [level=3] [ref=e316]
+            - paragraph [ref=e317]: 通过访谈、资料分析与现场调研，形成问题清单。
+          - generic [ref=e318]:
+            - emphasis [ref=e323]: "03"
+            - heading "方案设计" [level=3] [ref=e324]
+            - paragraph [ref=e325]: 结合企业阶段与资源，制定可执行的解决方案与路线图。
+          - generic [ref=e326]:
+            - emphasis [ref=e333]: "04"
+            - heading "落地辅导" [level=3] [ref=e334]
+            - paragraph [ref=e335]: 协助方案落地，提供工具模板与培训，跟进执行情况。
+          - generic [ref=e336]:
+            - emphasis [ref=e343]: "05"
+            - heading "复盘迭代" [level=3] [ref=e344]
+            - paragraph [ref=e345]: 评估成效，总结经验，持续优化并提供后续支持。
+      - generic [ref=e347]:
+        - generic [ref=e348]:
+          - paragraph [ref=e349]: Insights
+          - heading "行业洞察" [level=2] [ref=e350]
+          - paragraph [ref=e351]: 分享管理、财务、AI 与数据领域的实用观点。
+        - generic [ref=e352]:
+          - link "企业管理 2026-03-10 · 阅读约 4 分钟 小微企业管理升级：从这五件事开始 管理升级不必“大动干戈”。从目标、职责、流程、复盘、数据五个切入点着手，就能让团队运转更顺畅。 阅读全文" [ref=e354] [cursor=pointer]:
+            - /url: /lidexinxin/insights/management-five-steps
+            - generic [ref=e355]: 企业管理
+            - generic [ref=e360]:
+              - paragraph [ref=e361]: 2026-03-10 · 阅读约 4 分钟
+              - heading "小微企业管理升级：从这五件事开始" [level=3] [ref=e362]
+              - paragraph [ref=e363]: 管理升级不必“大动干戈”。从目标、职责、流程、复盘、数据五个切入点着手，就能让团队运转更顺畅。
+              - generic [ref=e364]: 阅读全文
+          - link "财务管理 2026-03-18 · 阅读约 4 分钟 创业公司财务管理的基础清单 账户、票据、对账、现金流、回款——五个基础动作，帮助创业团队建立清晰的财务秩序。 阅读全文" [ref=e368] [cursor=pointer]:
+            - /url: /lidexinxin/insights/finance-checklist
+            - generic [ref=e369]: 财务管理
+            - generic [ref=e373]:
+              - paragraph [ref=e374]: 2026-03-18 · 阅读约 4 分钟
+              - heading "创业公司财务管理的基础清单" [level=3] [ref=e375]
+              - paragraph [ref=e376]: 账户、票据、对账、现金流、回款——五个基础动作，帮助创业团队建立清晰的财务秩序。
+              - generic [ref=e377]: 阅读全文
+          - link "人工智能 2026-03-25 · 阅读约 5 分钟 企业引入 AI，如何迈出第一步 从高频重复场景切入，小范围试点、重视数据安全、用结果衡量价值，让 AI 真正产生效益。 阅读全文" [ref=e381] [cursor=pointer]:
+            - /url: /lidexinxin/insights/ai-first-step
+            - generic [ref=e382]: 人工智能
+            - generic [ref=e388]:
+              - paragraph [ref=e389]: 2026-03-25 · 阅读约 5 分钟
+              - heading "企业引入 AI，如何迈出第一步" [level=3] [ref=e390]
+              - paragraph [ref=e391]: 从高频重复场景切入，小范围试点、重视数据安全、用结果衡量价值，让 AI 真正产生效益。
+              - generic [ref=e392]: 阅读全文
+        - link "查看全部文章" [ref=e396] [cursor=pointer]:
+          - /url: /lidexinxin/insights
+      - generic [ref=e400]:
+        - generic [ref=e401]:
+          - paragraph [ref=e402]: FAQ
+          - heading "常见问题" [level=2] [ref=e403]
+          - paragraph [ref=e404]: 如果这里没有您想了解的内容，欢迎直接联系我们。
+        - generic [ref=e405]:
+          - group [ref=e406]:
+            - generic "你们可以提供代理记账、出具评估报告等服务吗？" [ref=e407] [cursor=pointer]
+          - group [ref=e410]:
+            - generic "服务是如何收费的？" [ref=e411] [cursor=pointer]
+          - group [ref=e414]:
+            - generic "我们的企业信息会被保密吗？" [ref=e415] [cursor=pointer]
+          - group [ref=e418]:
+            - generic "外地企业可以合作吗？" [ref=e419] [cursor=pointer]
+      - generic [ref=e424]:
+        - generic [ref=e425]:
+          - heading "让专业的人，帮您把事情理顺" [level=2] [ref=e426]
+          - paragraph [ref=e427]: 无论是管理规范、财税梳理，还是 AI 与数据应用，欢迎与我们聊聊您的需求。首次沟通，我们将认真倾听、坦诚建议。
+        - generic [ref=e428]:
+          - link "立即预约咨询" [ref=e429] [cursor=pointer]:
+            - /url: /lidexinxin/contact
+          - generic [ref=e432]: 000-0000-0000
+  - contentinfo [ref=e435]:
+    - generic [ref=e436]:
+      - generic [ref=e437]:
+        - generic [ref=e442]:
+          - generic [ref=e443]: 励德树信
+          - generic [ref=e444]: LIDE SHUXIN
+        - paragraph [ref=e445]: 励德树信（昆明）企业管理咨询有限公司，立足昆明，为企业提供管理、财税与数字化方面的专业咨询服务。
+        - paragraph [ref=e446]: 以德立身 · 以信立业
+      - generic [ref=e447]:
+        - heading "快速导航" [level=4] [ref=e448]
+        - list [ref=e449]:
+          - listitem [ref=e450]:
+            - link "首页" [ref=e451] [cursor=pointer]:
+              - /url: /lidexinxin/
+          - listitem [ref=e452]:
+            - link "关于我们" [ref=e453] [cursor=pointer]:
+              - /url: /lidexinxin/about
+          - listitem [ref=e454]:
+            - link "服务领域" [ref=e455] [cursor=pointer]:
+              - /url: /lidexinxin/services
+          - listitem [ref=e456]:
+            - link "行业洞察" [ref=e457] [cursor=pointer]:
+              - /url: /lidexinxin/insights
+          - listitem [ref=e458]:
+            - link "联系我们" [ref=e459] [cursor=pointer]:
+              - /url: /lidexinxin/contact
+      - generic [ref=e460]:
+        - heading "服务领域" [level=4] [ref=e461]
+        - list [ref=e462]:
+          - listitem [ref=e463]:
+            - link "企业管理咨询" [ref=e464] [cursor=pointer]:
+              - /url: /lidexinxin/services/management
+          - listitem [ref=e465]:
+            - link "财务咨询" [ref=e466] [cursor=pointer]:
+              - /url: /lidexinxin/services/finance
+          - listitem [ref=e467]:
+            - link "税务咨询服务" [ref=e468] [cursor=pointer]:
+              - /url: /lidexinxin/services/tax
+          - listitem [ref=e469]:
+            - link "资产评估咨询" [ref=e470] [cursor=pointer]:
+              - /url: /lidexinxin/services/valuation
+          - listitem [ref=e471]:
+            - link "人工智能应用咨询" [ref=e472] [cursor=pointer]:
+              - /url: /lidexinxin/services/ai
+          - listitem [ref=e473]:
+            - link "大数据与互联网数据服务" [ref=e474] [cursor=pointer]:
+              - /url: /lidexinxin/services/data
+      - generic [ref=e475]:
+        - heading "联系方式" [level=4] [ref=e476]
+        - list [ref=e477]:
+          - listitem [ref=e478]: 云南省昆明市五华区（TODO：补充详细地址）
+          - listitem [ref=e482]: 000-0000-0000
+          - listitem [ref=e485]: contact@example.com
+          - listitem [ref=e489]: 周一至周五 9:00 – 18:00
+    - generic [ref=e493]:
+      - generic [ref=e494]: © 2026 励德树信（昆明）企业管理咨询有限公司 版权所有
+      - generic [ref=e495]: 本网站内容仅供参考，不构成法律、税务或投资意见。
+  - button "回到顶部"
